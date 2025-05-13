@@ -1,0 +1,1 @@
+def load_project_data(path): return []  # Stub

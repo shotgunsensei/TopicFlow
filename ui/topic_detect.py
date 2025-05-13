@@ -1,0 +1,1 @@
+class TopicDetectScreen: pass  # Stub
